@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @therealstevinator
 - 👀 I’m interested in Mentoring, Programming and creating YouTube videos
-- 🌱 I’m currently learning Selfdevelopment, Flutter/Dart, FOREX
+- 🌱 I’m currently learning Self Development, Flutter/Dart, FOREX
 - 📫 How to reach me 
   - Youtube -> https://www.youtube.com/channel/UCHYYra0rBYr4kbswo-DvZ1g
   - Blog -> https://stevinator.dev/
